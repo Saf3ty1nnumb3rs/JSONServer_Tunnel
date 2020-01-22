@@ -1,0 +1,14 @@
+{
+  "blogposts": [
+    {
+      "id": 1,
+      "title": "API Post",
+      "content": "This is the content"
+    },
+    {
+      "title": "We are not sure what the other day",
+      "content": "Really great game but I don’t want the time favorites are not the only ",
+      "id": 2
+    }
+  ]
+}
